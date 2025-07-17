@@ -1,0 +1,8 @@
+# requirements.txt
+
+ipywidgets
+git+https://github.com/openai/whisper.git
+yt-dlp
+transformers
+torch
+youtube-transcript-api
