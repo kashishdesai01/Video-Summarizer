@@ -12,8 +12,8 @@ This project uses OpenAI's Whisper and a BART model to generate concise and huma
 To run this project, clone the repository and install the required dependencies.
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/AI-Video-Summarizer.git](https://github.com/YOUR_USERNAME/AI-Video-Summarizer.git)
-cd AI-Video-Summarizer
+git clone [https://github.com/kashishdesai01/Video-Summarizer.git]
+cd Video-Summarizer
 pip install -r requirements.txt
 ```
 
